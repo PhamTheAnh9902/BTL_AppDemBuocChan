@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BTL_AppDemBuocChan</string>
+    <string name="bottom_nav_item1">Kế hoạch</string>
+    <string name="bottom_nav_item2">Tiến độ</string>
+    <string name="bottom_nav_item3">Bắt đầu</string>
+    <string name="bottom_nav_item4">Bước</string>
+    <string name="bottom_nav_item5">Cài đặt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

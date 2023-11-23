@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1445" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/drawable-v24/rectangle_5.xml" value="0.16" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1445" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_chi_tiet_ke_hoach.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_chinh_sach_bao_mat.xml" value="0.1" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_danhgia.xml" value="0.1" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_dieu_khoan_dich_vu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_doi_password.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_gioi_thieu.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_register.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_test.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_thong_bao.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_uer.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/activity_user.xml" value="0.12" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/fragment_bat_dau.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/fragment_cai_dat.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/fragment_ke_hoach.xml" value="0.1032258064516129" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/fragment_tien_do.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/item_caidat.xml" value="0.184375" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/layout/item_kehoach.xml" value="0.25" />
+        <entry key="..\:/Users/thean/AndroidStudioProjects/BTL_AppDemBuocChan/app/src/main/res/menu/menu_navigation.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
